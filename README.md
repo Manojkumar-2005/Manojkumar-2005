@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨Since 2005<br>📚 I'm currently learning Web Development<br>🎯 Goals: Become We best Web Developer<br></p>
 
 ###
 
